@@ -1,0 +1,6 @@
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\bin\Debug\BackEnd.dll
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\bin\Debug\BackEnd.pdb
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\obj\Debug\BackEnd.dll
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\obj\Debug\BackEnd.pdb
+E:\Joa\ITSC (Instituto Técnico Superior de Córdoba)\Trabajos\Programación I\Mis trabajos\PONG\PONG\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
